@@ -1,12 +1,9 @@
-## Hi there 👋
+# Autobyteus
 
-<!--
+**Autobyteus** is an open-source project designed to transform product development processes by integrating large language models (LLMs) into every lifecycle stage. Our long-term goal is to provide a single platform that enhances collaboration, automates tasks, and streamlines workflows across all roles in product development. This includes leveraging LLMs to push automation and improve efficiency in cooperation, documentation, coding, and beyond.
 
-**Here are some ideas to get you started:**
+[Watch the introduction video](./autobyteus.mp4)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+
