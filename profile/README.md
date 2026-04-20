@@ -1,9 +1,10 @@
 # Autobyteus
 
-**Autobyteus** is an open-source project designed to transform product development processes by integrating large language models (LLMs) into every lifecycle stage. Our long-term goal is to provide a single platform that enhances collaboration, automates tasks, and streamlines workflows across all roles in product development. This includes leveraging LLMs to push automation and improve efficiency in cooperation, documentation, coding, and beyond.
+**Autobyteus** is an open-source, local-first, multi-agent platform for building and running native agent teams.
 
-https://github.com/user-attachments/assets/894635f9-7380-4167-a3f6-57540ce6ac43
+It supports custom applications on top of the agent-team execution runtime, so teams can extend workflows with app-specific interfaces, tools, and business logic while keeping execution close to their own environment.
 
+https://github.com/AutoByteus/.github/raw/main/profile/autobyteus.mp4
 
 
 
